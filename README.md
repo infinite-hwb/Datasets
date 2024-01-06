@@ -50,3 +50,5 @@
    [View Dataset](https://zenodo.org/records/7978722)
 25. Dataset for Handwritten Text Recognition in Norwegian
    [View Dataset](https://zenodo.org/records/10255840)
+26. Recognition of Early Indian printed Documents
+   [View Dataset](https://www.primaresearch.org/datasets/REID2017)
