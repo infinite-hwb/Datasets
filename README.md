@@ -66,3 +66,21 @@
    [View Dataset](https://fki.tic.heia-fr.ch/databases/washington-database)
 33. Correctly predict the script type of samples of medieval handwriting
    [View Dataset](https://github.com/mikekestemont/DeepScript)
+34. CASIA-AHCDB: Chinese Ancient Handwritten Characters Database
+   [View Dataset](http://www.nlpr.ia.ac.cn/pal/CASIA-AHCDB.html)
+35. GloSAT Historical Measurement Table Dataset
+   [View Dataset](https://github.com/stuartemiddleton/glosat_table_dataset)
+36. PubLayNet: largest dataset ever for document layout analysis
+   [View Dataset](https://github.com/ibm-aur-nlp/PubLayNet)
+37. A New Khmer Palm Leaf Manuscript Dataset for Document Analysis and Recognition: SleukRith Set
+   [View Dataset](https://github.com/donavaly/SleukRith-Set)
+38. The Handwritten Sundanese Palm Leaf Manuscript Dataset from 15th Century
+   [View Dataset](http://amadi.univ-lr.fr/ICFHR2018_Contest/index.php)
+39. Competition on Layout Analysis for Challenging Medieval Manuscripts
+   [View Dataset](https://github.com/DIVA-DIA/DIVA_Layout_Analysis_Evaluator)
+40. Vorau Abbey Library Cod. 253 dataset for Document Layout Analysis
+   [View Dataset](https://zenodo.org/records/5443258#.YpoMti8RqJ8)
+41. BiblIA - a General Model for Medieval Hebrew Manuscripts and an Open Annotated Dataset
+   [View Dataset](https://zenodo.org/records/5167263)
+42. The “ScribbleLens” Dutch Historical Handwriting Corpus
+   [View Dataset](https://www.openslr.org/84/)
