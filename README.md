@@ -58,3 +58,9 @@
    [View Dataset](https://zenodo.org/records/1324999)
 29. Image Retrieval for Historical Handwritten Documents
    [View Dataset](https://zenodo.org/records/3262372)
+30. IAM Handwriting Database
+   [View Dataset](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database)
+31. Saint Gall Database
+   [View Dataset](https://fki.tic.heia-fr.ch/databases/saint-gall-database)
+32. Washington Database
+   [View Dataset](https://fki.tic.heia-fr.ch/databases/washington-database)
