@@ -64,3 +64,5 @@
    [View Dataset](https://fki.tic.heia-fr.ch/databases/saint-gall-database)
 32. Washington Database
    [View Dataset](https://fki.tic.heia-fr.ch/databases/washington-database)
+33. Correctly predict the script type of samples of medieval handwriting
+   [View Dataset](https://github.com/mikekestemont/DeepScript)
