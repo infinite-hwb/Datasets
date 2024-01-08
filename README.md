@@ -56,3 +56,5 @@
    [View Dataset](https://lme.tf.fau.de/competitions/2023-competition-on-detection-and-recognition-of-greek-letters-on-papyri/)
 28. Historical Document Writer Identification
    [View Dataset](https://zenodo.org/records/1324999)
+29. Image Retrieval for Historical Handwritten Documents
+   [View Dataset](https://zenodo.org/records/3262372)
