@@ -52,3 +52,7 @@
    [View Dataset](https://zenodo.org/records/10255840)
 26. Recognition of Early Indian printed Documents
    [View Dataset](https://www.primaresearch.org/datasets/REID2017)
+27. ICDAR2023 Competition on Detection and Recognition of Greek Letters on Papyri
+   [View Dataset](https://lme.tf.fau.de/competitions/2023-competition-on-detection-and-recognition-of-greek-letters-on-papyri/)
+28. Historical Document Writer Identification
+   [View Dataset](https://zenodo.org/records/1324999)
