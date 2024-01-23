@@ -84,3 +84,5 @@
    [View Dataset](https://zenodo.org/records/5167263)
 42. The “ScribbleLens” Dutch Historical Handwriting Corpus
    [View Dataset](https://www.openslr.org/84/)
+43. ICDAR 2024 Competition on Handwriting Recognition of Historical Ciphers
+   [View Dataset](https://rrc.cvc.uab.es/?ch=27&com=contact)
